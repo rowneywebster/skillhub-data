@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to HTML & CSS",
+    "description": "Learn to structure and style web pages from scratch.",
+    "instructor": "Jane Doe",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Fundamentals",
+    "description": "Grasp variables, functions, loops, and DOM basics.",
+    "instructor": "John Smith",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Beginner"
+  },
+  {
+    "id": 3,
+    "title": "React Basics",
+    "description": "Learn the essentials of React including hooks and props.",
+    "instructor": "Sarah Lee",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2.5 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 4,
+    "title": "Git & GitHub Essentials",
+    "description": "Version control basics and how to collaborate on GitHub.",
+    "instructor": "James Otieno",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1.5 hours",
+    "level": "Beginner"
+  },
+  {
+    "id": 5,
+    "title": "Responsive Web Design",
+    "description": "Make websites mobile-friendly using CSS media queries.",
+    "instructor": "Amina Yusuf",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 6,
+    "title": "Basic Python Programming",
+    "description": "Learn Python syntax, variables, and simple data structures.",
+    "instructor": "Kelvin Mutua",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "3 hours",
+    "level": "Beginner"
+  },
+  {
+    "id": 7,
+    "title": "Web APIs with JavaScript",
+    "description": "Learn how to make API requests and handle responses.",
+    "instructor": "Angela Njeri",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 8,
+    "title": "Intro to SQL",
+    "description": "Understand how to query databases using SQL syntax.",
+    "instructor": "Brian Karanja",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Beginner"
+  },
+  {
+    "id": 9,
+    "title": "UI/UX Design Principles",
+    "description": "Create intuitive and beautiful user interfaces.",
+    "instructor": "Fatma Ali",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Intermediate"
+  },
+  {
+    "id": 10,
+    "title": "Firebase Authentication",
+    "description": "Add login/signup functionality using Firebase.",
+    "instructor": "Leon Maina",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1.5 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 11,
+    "title": "CSS Flexbox Crash Course",
+    "description": "Master CSS Flexbox layout in under 1 hour.",
+    "instructor": "Mary Wambui",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 12,
+    "title": "JavaScript ES6+ Features",
+    "description": "Explore modern JavaScript: arrow functions, spread, destructuring.",
+    "instructor": "Peter Mwangi",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1.5 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 13,
+    "title": "Deploying Apps with Netlify",
+    "description": "Learn how to deploy static sites using Netlify.",
+    "instructor": "Emily Achieng",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 14,
+    "title": "Node.js for Beginners",
+    "description": "Create a simple server and understand Node basics.",
+    "instructor": "Victor Kiprotich",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 15,
+    "title": "Building Forms with React",
+    "description": "Controlled inputs, validation, and form handling in React.",
+    "instructor": "Njeri Kamau",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1.5 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 16,
+    "title": "Content Marketing 101",
+    "description": "Basics of content creation for digital campaigns.",
+    "instructor": "Jackline Ndungu",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 17,
+    "title": "SEO Crash Course",
+    "description": "Optimize websites for better search engine visibility.",
+    "instructor": "Eric Ochieng",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1.5 hours",
+    "level": "Intermediate"
+  },
+  {
+    "id": 18,
+    "title": "Designing with Canva",
+    "description": "Use Canva to create flyers, posters, and social posts.",
+    "instructor": "Naomi Wanjiku",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 19,
+    "title": "Using ChatGPT for Work",
+    "description": "Boost productivity with ChatGPT prompts and use-cases.",
+    "instructor": "Dan Okello",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "1 hour",
+    "level": "Beginner"
+  },
+  {
+    "id": 20,
+    "title": "Cybersecurity Basics",
+    "description": "Understand online safety, password security, and phishing.",
+    "instructor": "Lilian Mwende",
+    "image": "https://via.placeholder.com/300x200",
+    "duration": "2 hours",
+    "level": "Beginner"
+  }
+]
